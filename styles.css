@@ -1,0 +1,63 @@
+body {
+    background-color: grey;
+    margin:auto ; width: 100%; position: absolute; top: 50%; left: 50%; transform:translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+
+}
+.postInstagram {
+    background-color: white;
+    width: 40%;
+
+}
+header div {
+    height: 2rem;
+    width: 2rem;
+}
+
+.HTMLCarol {
+    margin-right: 9rem;
+}
+
+.puntos {
+    margin-left: 1rem
+}
+
+
+.bold {
+    font-weight: bold; 
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    font-size: 1rem;
+    margin: auto;
+}
+
+
+.fa-html5 {
+    font-size: 2rem;
+} 
+
+img {
+    width: 100%;
+    
+}
+
+.user-icon {
+    font-size: 1.5rem;
+}
+
+footer {
+    margin: 1rem;
+    padding-bottom: 0rem;
+    
+}
+
+.footerIcons {
+    display: flex;
+    justify-content: space-between;
+}
